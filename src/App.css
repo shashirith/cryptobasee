@@ -1,0 +1,22 @@
+.sign-out{
+    padding: 6px;
+    margin-left: 40%;   
+}
+
+button:hover {
+    opacity: 0.7;
+    cursor:pointer;
+    color: black;
+}
+.sign-in {
+    padding: 6px;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+
+.extra{
+    width: 99%;
+    padding : 0 3px;
+    padding-left: 10px;
+    padding-right: 2px;
+}
